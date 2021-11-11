@@ -1,0 +1,21 @@
+.list-info {
+  margin: 20px;
+  text-transform: capitalize;
+}
+
+.list-info ul {
+  padding-left: 20px;
+  list-style: none;
+}
+
+.icon {
+  margin-right: 10px;
+  transform: rotate(90deg);
+}
+
+.icon-wrapper {
+  display: inline-block;
+  vertical-align: middle;
+  width: 20px;
+  margin-right: 10px;
+}
