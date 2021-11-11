@@ -8,7 +8,7 @@ export class Recurs extends Component {
 
     return (
       <div className="list-info">
-        <h2>List start</h2>
+        <h2>List start </h2>
         <ul>
           {this.props.direct.map(elem => {
             // return (
